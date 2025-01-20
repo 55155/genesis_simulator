@@ -1,0 +1,1 @@
+gs.options.SFOptions # class genesis.options.solvers. SFOptions ( * , dt : float | None = None ) [source] # Options configuring the SFSolver. Parameters : dt ( float , optional ) – Time duration for each simulation step in seconds. If none, it will inherit from SimOptions . Defaults to None.

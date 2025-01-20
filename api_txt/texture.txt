@@ -1,0 +1,1 @@
+gs.textures.Texture # class genesis.options.textures. Texture [source] # Bases: Options Base class for Genesis’s texture objects. Note This class should not be instantiated directly.

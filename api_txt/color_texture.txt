@@ -1,0 +1,1 @@
+gs.textures.ColorTexture # class genesis.options.textures. ColorTexture ( * , color : tuple = (1.0, 1.0, 1.0) ) [source] # Bases: Texture A texture with a single color. Parameters : color ( tuple , shape ( 3 , ) ) – RGB color value.

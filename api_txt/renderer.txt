@@ -1,0 +1,1 @@
+gs.renderers.Renderer # class genesis.options.renderers. Renderer [source] # This is the base class for all gs.renderers.* classes. Note that this is not an actual renderer, but rather a renderer configuration specifying which renderer to use and its parameters.
